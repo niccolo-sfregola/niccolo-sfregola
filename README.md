@@ -4,17 +4,20 @@ Master’s student in Quantum Science and Technology at TUM and LMU Munich and R
 
 ## About Me
 
-I come from a Physics background and I am passionate about the intersection of Artificial Intelligence and Quantum Technologies. My primary research interests focus on Machine Learning for Quantum Computing, with an emphasis on quantum hardware optimization, readout, control, and data-driven noise modeling. I am particularly interested in leveraging ML techniques to improve the performance, robustness, and scalability of real quantum devices.
+I come from a Physics background and I am passionate about Artificial Intelligence and Machine Learning, from developing new learning algorithms to applying them to concrete problems across different domains.
 
-In parallel, I am also interested in Quantum Machine Learning and quantum-enhanced AI, exploring how quantum resources can be leveraged for real-world learning tasks and applications.
+Within this broad interest, I am especially drawn to the intersection of AI and Quantum Technologies. My main focus is Quantum Machine Learning and quantum-enhanced AI, exploring how quantum resources can be leveraged for real-world learning tasks and applications, with an emphasis on hybrid quantum-classical approaches.
+
+In parallel, I've worked on applications of Machine Learning for Quantum Computing, leveraging ML techniques such as reinforcement learning to improve readout, control, and noise modeling of real quantum devices.
 
 ## Current Focus
 
-- Reinforcement Learning for quantum readout pulse shaping  
-- Machine Learning for Quantum Computing  
-- Scientific AI and optimization  
-- Quantum Hardware  
-- Quantum-enhanced AI
+- Quantum Machine Learning and quantum-enhanced AI
+- Reinforcement Learning for Quantum Machine Learning
+- Scientific AI and optimization
+- Reinforcement Learning for quantum readout pulse shaping
+- Machine Learning for Quantum Computing
+
 
 ## Technical Skills
 
