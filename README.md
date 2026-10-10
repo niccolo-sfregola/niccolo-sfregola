@@ -38,10 +38,10 @@ Hybrid quantum-classical framework for supervised and unsupervised DDoS anomaly 
 
 Link: [https://github.com/niccolo-sfregola/quantum-anomalydetection-ddos]
 
-### Reinforcement Learning for Quantum Readout (Work in Progress)
+### Reinforcement Learning for Quantum Readout
 Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments. Working on PPO training, building Custom Gymnasium environment, setting up Multiplexed readout simulation and reward design.
 
-Link: **Repository not released yet**
+Link: **Repository is private**
 
 ### Convolutional Photonic Reservoir for Financial Swaption Surface Forecast
 Photonic reservoir computing model for forecasting swaption volatility surfaces. Winner project of Quandela's Challenge at the PushQuantum Hackathon 2025.
