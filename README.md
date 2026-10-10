@@ -8,7 +8,7 @@ With a background in Physics, I am passionate about Artificial Intelligence and 
 
 My primary research interest is Reinforcement Learning for decision-making and optimization in complex systems. I have applied RL to quantum technologies, including qubit readout pulse optimization and quantum circuit noise modeling, and I am now exploring its applications in medical AI, robotics, and LLM post-training.
 
-I also have experience in Quantum Machine Learning, particularly quantum and photonic reservoir computing. Across these domains, I am interested in rigorous experimental evaluation: comparing learned approaches against strong, matched classical baselines, using multiple random seeds and statistical tests to distinguish meaningful improvements from noise.
+I also have experience in Quantum Machine Learning. Across these domains, I am interested in rigorous experimental evaluation: comparing learned approaches against strong, matched classical baselines, using multiple random seeds and statistical tests to distinguish meaningful improvements from noise.
 
 ## Current Focus
 
