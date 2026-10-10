@@ -30,42 +30,7 @@ In parallel, I've worked on applications of Machine Learning for Quantum Computi
 - Stable-Baselines3  
 - Qiskit    
 - Git / GitHub
-
-## Featured Projects
-
-### Quantum-Enhanced DDoS Anomaly Detection
-Hybrid quantum-classical framework for supervised and unsupervised DDoS anomaly detection using quantum reservoir computing, density-matrix representations, and trace-distance-based scoring. Developed during the QCentroid × GSMA Challenge at the ETH Quantum Hackathon 2026, where the project won 1st place.
-
-Link: [https://github.com/niccolo-sfregola/quantum-anomalydetection-ddos]
-
-### Reinforcement Learning for Quantum Readout
-Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments. Working on PPO training, building Custom Gymnasium environment, setting up Multiplexed readout simulation and reward design.
-
-Link: **Repository is private**
-
-### Convolutional Photonic Reservoir for Financial Swaption Surface Forecast
-Photonic reservoir computing model for forecasting swaption volatility surfaces. Winner project of Quandela's Challenge at the PushQuantum Hackathon 2025.
-
-Link: [https://github.com/niccolo-sfregola/convolutional-photonic-reservoir]
-
-### Input Reduction for Scalable Reinforcement Learning in Quantum Computing Noise Models
-My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and study of shot-dependence of performance.
-
-Link: [https://github.com/niccolo-sfregola/ppo-quantumnoise-input-reduction]
-
-### Quantum Support Vector Classifier for Breast Cancer Detection
-Qiskit Fall Fest 2025 Project where I developed and trained a Qiskit-based Quantum SVM with a custom quantum feature map to classify
-the Breast Cancer dataset.
-
-Link: [https://github.com/niccolo-sfregola/qsvm-breast-cancer]
-
-
-### Domain Adaptation Methods for Quantum Phase Transitions
-Individual research project in which I developed and trained an Adversarial Domain Adaptation (DANN) neural network to investigate
-quantum phase transitions in 2D Ising models subjected to random magnetic fields.
-
-Link: [https://github.com/niccolo-sfregola/dann-phase-transition]
-
+  
 
 ## Connect With Me
 
