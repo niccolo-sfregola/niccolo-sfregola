@@ -12,11 +12,13 @@ In parallel, I've worked on applications of Machine Learning for Quantum Computi
 
 ## Current Focus
 
-- Quantum Machine Learning and quantum-enhanced AI
+- Reinforcement Learning
+- Machine Learning and Deep Learning
+- Quantum-Enhanced AI
 - Reinforcement Learning for Quantum Machine Learning
-- Scientific AI and optimization
-- Reinforcement Learning for quantum readout pulse shaping
-- Machine Learning for Quantum Computing
+- RL for quantum readout pulse optimization
+- Reinforcement Learning for science
+
 
 
 ## Technical Skills
