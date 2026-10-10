@@ -1,6 +1,6 @@
 # Hi, I'm Niccolò Sfregola!
 
-Master’s student in Quantum Science and Technology at TUM and LMU Munich and Research Assistant at Walther-Meißner-Institut
+Master’s student in Quantum Science and Technology at TUM and LMU Munich and Research Assistant at Fraunhofer IKS
 
 ## About Me
 
