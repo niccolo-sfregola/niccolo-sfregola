@@ -4,21 +4,18 @@ Master’s student in Quantum Science and Technology at TUM and LMU Munich and R
 
 ## About Me
 
-I come from a Physics background and I am passionate about Artificial Intelligence and Machine Learning, from developing new learning algorithms to applying them to concrete problems across different domains.
+With a background in Physics, I am passionate about Artificial Intelligence and Machine Learning, from developing learning algorithms to applying them to real-world problems.
 
-Within this broad interest, I am especially drawn to the intersection of AI and Quantum Technologies. My main focus is Quantum Machine Learning and quantum-enhanced AI, exploring how quantum resources can be leveraged for real-world learning tasks and applications, with an emphasis on hybrid quantum-classical approaches.
+My primary research interest is Reinforcement Learning for decision-making and optimization in complex systems. I have applied RL to quantum technologies, including qubit readout pulse optimization and quantum circuit noise modeling, and I am now exploring its applications in medical AI, robotics, and LLM post-training.
 
-In parallel, I've worked on applications of Machine Learning for Quantum Computing, leveraging ML techniques such as reinforcement learning to improve readout, control, and noise modeling of real quantum devices.
+I also have experience in Quantum Machine Learning, particularly quantum and photonic reservoir computing. Across these domains, I am interested in rigorous experimental evaluation: comparing learned approaches against strong, matched classical baselines, using multiple random seeds and statistical tests to distinguish meaningful improvements from noise.
 
 ## Current Focus
 
-- Reinforcement Learning
-- Machine Learning and Deep Learning
-- Quantum-Enhanced AI
-- Reinforcement Learning for Quantum Machine Learning
-- RL for quantum readout pulse optimization
-- Reinforcement Learning for science
-
+- Reinforcement Learning for real-world decision-making and optimization
+- RL-guided search for quantum data encodings in 3D medical imaging (M.Sc. thesis)
+- RL post-training of small language models with verifiable rewards (GRPO)
+- Robust RL and sim-to-real transfer
 
 
 ## Technical Skills
